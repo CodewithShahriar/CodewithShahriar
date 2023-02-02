@@ -1,9 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)
 
-<h1 align="center">Hi 👋, I'm Shahriar</h1>
+<h1 align="center">Hi 👋, I'm Shahriar Abid</h1>
 
 <h3 align="center">Programming is the art of algorithm design and the craft of debugging errant code. – Ellen Ullman</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/website-development-web-page-programming-coding_277904-5103.jpg?w=2000">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshahriar" /> </p>
