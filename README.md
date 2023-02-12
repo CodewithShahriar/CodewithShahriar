@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML CSS Boostrap**
 
-- 📫 How to reach me **codewithshahriar1@gmail.com**
+- 📫 How to reach me **codewith.shahriar1@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
