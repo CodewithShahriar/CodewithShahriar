@@ -1,4 +1,5 @@
-![MasterHead](https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
+![MasterHead ](https://potomac.edu/wp-content/uploads/2020/12/benefits-of-coding-e1606911064541.jpg)
+
 
 <h1 align="center">Hi, I'm Abid Shahriar </h1>
 
