@@ -1,9 +1,9 @@
-![MasterHead](https://img.freepik.com/vector-premium/encabezado-tipografico-desarrollador-front-end_277904-11487.jpg?w=1380)
+<!-- ![MasterHead](https://img.freepik.com/vector-premium/encabezado-tipografico-desarrollador-front-end_277904-11487.jpg?w=1380) -->
 <h1 align="center">Hi , I'm Shahriar</h1>
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<!-- <h3 align="center">A passionate frontend web developer from Bangladesh</h3> -->
 
 # 💫 About Me:
-🌱 I’m currently learning React JS<br>💬 Ask me about JS<br>
+<!-- 🌱 I’m currently learning React JS<br>💬 Ask me about JS<br> -->
 
 [![](https://visitcount.itsvg.in/api?id=CodewithShahriar&icon=0&color=0)](https://visitcount.itsvg.in)
 
