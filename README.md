@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/011/153/368/original/3d-website-developer-working-on-laptop-illustration-png.png)
+![MasterHead]()
 <h1 align="center">Hi, I'm Shahriar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshahriar" /> </p>
 
