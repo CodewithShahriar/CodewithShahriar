@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react.js**
 
-- 📄 Know about my experiences [http://surl.li/hipeq](http://surl.li/hipeq)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
