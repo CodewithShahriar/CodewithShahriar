@@ -1,4 +1,4 @@
-![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)
+![MasterHead](banner.jpg)
 <h1 align="center">Welcome to Code With Shahriar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
