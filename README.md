@@ -1,6 +1,6 @@
 ![MasterHead](banner.jpg)
 <h1 align="center">Welcome to Code With Shahriar</h1>
-<h3 align="center">I'm a passionate developer with a strong interest in **full-stack web development**, particularly in building efficient, modern web applications that solve real-world problems.</h3>
+<h3 align="center">I'm a passionate developer with a strong interest in full-stack web development, particularly in building efficient, modern web applications that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshahriar" /> </p>
 
