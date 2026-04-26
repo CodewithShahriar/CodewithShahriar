@@ -1,27 +1,115 @@
-![MasterHead](https://i.postimg.cc/cHMHKfgV/c91cdb3c-df9a-4978-ad49-80e99b513e98.png)
-<h1 align="center"> </h1>
-<h3 align="center">I'm a Full Stack Developer focused on building scalable, high-performance web applications.  
-I enjoy turning complex problems into simple, efficient solutions using modern technologies.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshahriar" /> </p>
-
+<!-- Header -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodewithShahriar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+  <img src="https://i.postimg.cc/2jg02vVw/banner.png" alt="Abid Shahriar — Full Stack Developer" width="100%" />
 </p>
 
-- 🌱 I’m currently learning **Express.js, Next.js**
+<!-- Profile Views -->
+<p align="right">
+  <a href="https://github.com/alsiam">
+    <img src="https://komarev.com/ghpvc/?username=alsiam&label=Profile%20Views&color=0070F3&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-- 📫 How to reach me **abid.shahriar@keemail.me**
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=EDEDED&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+beautiful+things+for+the+web;4%2B+years+of+crafting+digital+experiences" alt="Typing SVG" />
+  </a>
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)   
+<!-- Social Links -->
+<p align="center">
+  <a href="https://sherriyar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/sherriyar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<br>
+
+<!-- About Me -->
 
 
+```typescript
+const abidshahriar = {
+    pronouns: "he" | "him",
+    location: "Bangladesh 🇧🇩",
+    role: "Full Stack Developer",
+    company: "Open to opportunities",
+    languages: ["TypeScript", "JavaScript", "Python"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express"],
+        database: ["MongoDB", "PostgreSQL"],
+        tools: ["Docker", "Git", "VS Code", "Figma"]
+    },
+    currentFocus: "Building beautiful, performant web experiences",
+    funFact: "I think dark mode is the only mode 🌑"
+};
+```
+
+<br>
+
+<!-- Tech Stack -->
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,git,github,vscode,figma,linux,python,redux,html,css,sass&theme=dark&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+
+<br>
+
+<!-- GitHub Stats -->
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodewithShahriar&show_icons=true&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodewithShahriar&theme=tokyonight" />
+</p>
+
+<br>
+
+<!-- Contribution Snake -->
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<!-- Activity Graph -->
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/CodewithShahriar">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodewithShahriar&custom_title=Abid%20Shahriar's%20Contribution%20Graph&bg_color=000000&color=EDEDED&line=00C2FF&point=00F7FF&area_color=0070F3&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  </a>
+</p>
+</p>
+
+<br>
+
+<!-- Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img alt="Footer" src="assets/footer-dark.svg" width="100%">
+</picture>
