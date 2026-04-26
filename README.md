@@ -1,10 +1,13 @@
-![MasterHead](banner.jpg)
+![MasterHead](https://i.postimg.cc/cHMHKfgV/c91cdb3c-df9a-4978-ad49-80e99b513e98.png)
 <h1 align="center"> </h1>
-<h3 align="center">I'm a passionate developer with a strong interest in full-stack web development, particularly in building efficient, modern web applications that solve real-world problems.</h3>
+<h3 align="center">I'm a Full Stack Developer focused on building scalable, high-performance web applications.  
+I enjoy turning complex problems into simple, efficient solutions using modern technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="codewithshahriar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithshahriar" alt="codewithshahriar" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodewithShahriar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+</p>
 
 - 🌱 I’m currently learning **Express.js, Next.js**
 
