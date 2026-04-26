@@ -76,11 +76,18 @@ const abidshahriar = {
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodewithShahriar&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/CodewithShahriar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodewithShahriar&show_icons=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=00C2FF&border_color=333333&hide_border=false&ring_color=00C2FF" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/CodewithShahriar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithShahriar&langs_count=8&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=00C2FF&border_color=333333&hide_border=false" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodewithShahriar&theme=tokyonight" />
+  <a href="https://github.com/CodewithShahriar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodewithShahriar&background=000000&border=333333&stroke=333333&ring=00C2FF&fire=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C2FF&sideLabels=888888&dates=555555" />
+  </a>
 </p>
 
 <br>
