@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://i.postimg.cc/2jg02vVw/banner.png" alt="Abid Shahriar — Full Stack Developer" width="100%" />
+  <img src="https://i.postimg.cc/XvhsmyQP/e78fee19-fcd2-43cf-a0c8-343b9533aada.png" alt="Abid Shahriar — Full Stack Developer" width="100%" />
 </p>
 
 <!-- Profile Views -->
