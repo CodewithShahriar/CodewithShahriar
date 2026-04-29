@@ -107,24 +107,9 @@ const abidshahriar = {
 
 <!-- Footer -->
 
-<svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0070F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00C2FF;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-
-  <rect width="1000" height="120" fill="#000000"/>
-
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        fill="url(#grad1)" font-size="22" font-family="Arial, sans-serif">
-    Thanks for visiting my profile 🚀
-  </text>
-
-  <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle"
-        fill="#888888" font-size="14" font-family="Arial, sans-serif">
-    Built with ❤️ by Abid Shahriar
-  </text>
-</svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/main/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/main/footer-dark.svg">
+  <img alt="Footer" src="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/main/footer-dark.svg" width="100%">
+</picture>
 ```
