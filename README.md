@@ -61,6 +61,9 @@ const abidshahriar = {
 
 <br>
 
+
+![](https://github-profile-trophy.vercel.app/?username=CodewithShahriar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 <!-- Tech Stack -->
 
 <p align="center">
