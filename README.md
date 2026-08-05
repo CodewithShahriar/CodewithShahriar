@@ -74,37 +74,49 @@ const abidshahriar = {
 
 <br>
 
-<!-- GitHub Stats -->
+<!-- ===== GITHUB STATS ===== -->
 
-<p align="center">
-  <a href="https://github.com/CodewithShahriar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodewithShahriar&show_icons=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=00C2FF&border_color=333333&hide_border=false&ring_color=00C2FF" alt="GitHub Stats" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/CodewithShahriar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithShahriar&langs_count=8&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=00C2FF&border_color=333333&hide_border=false" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
 
 <!-- GitHub Streak -->
+<!-- GitHub Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=CodewithShahriar&hide_border=true&background=000000&stroke=333333&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&titleColor=FFFFFF&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=CodewithShahriar&hide_border=true&background=000000&stroke=333333&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&titleColor=FFFFFF&card_width=1180" alt="GitHub Streak" />
+</picture>
 
-<p align="center">
-  <a href="https://github.com/CodewithShahriar">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=CodewithShahriar&theme=black-ice&hide_border=false&border=333333&background=000000&ring=00C2FF&fire=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C2FF&sideLabels=888888&dates=555555" alt="GitHub Streak" />
-  </a>
-</p>
+<br><br>
+
+<!-- GitHub Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=CodewithShahriar&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=CodewithShahriar&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=CodewithShahriar&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=CodewithShahriar&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top Languages" />
+</picture>
+
+</div>
 
 <br>
 
-<!-- Contribution Snake -->
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/output/github-snake.svg">
-  <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/output/github-snake-dark.svg"
-    width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
 </picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
+
+
 <!-- Activity Graph -->
 
 <p align="center">
