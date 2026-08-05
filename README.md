@@ -96,8 +96,15 @@ const abidshahriar = {
 <br>
 
 <!-- Contribution Snake -->
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake.svg"> <img alt="Snake animation" src="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake-dark.svg" width="100%"> </picture> <br>  <br>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/output/github-snake.svg">
+  <img alt="Snake animation"
+    src="https://raw.githubusercontent.com/CodewithShahriar/CodewithShahriar/output/github-snake-dark.svg"
+    width="100%">
+</picture>
 <!-- Activity Graph -->
 
 <p align="center">
