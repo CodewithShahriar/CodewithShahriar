@@ -108,11 +108,10 @@ const abidshahriar = {
 <!-- ===== END SNAKE ===== -->
 
 
-<!-- Activity Graph -->
-
+<!-- Alternative Activity Graph -->
 <p align="center">
   <a href="https://github.com/CodewithShahriar">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodewithShahriar&custom_title=Abid%20Shahriar's%20Contribution%20Graph&bg_color=000000&color=EDEDED&line=00C2FF&point=00F7FF&area_color=0070F3&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.bhagya.dev/graph?username=CodewithShahriar&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
 </p>
 
